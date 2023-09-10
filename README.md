@@ -6,7 +6,7 @@ This is a repository for Tab Recording, a Chrome extension that allows you to re
 
 This Chrome extension, developed using Manifest V3, allows you to record the current active tab in your Chrome browser using the Chrome `tabCapture` API and the `MediaRecorder` API. It's a handy tool for capturing web content, creating tutorials, or recording any web-based activities.
 
-![Demo](https://youtu.be/tVG10viT3Zw)
+[Demo](https://youtu.be/tVG10viT3Zw)
 
 ## Features
 
@@ -48,7 +48,7 @@ Any feedback or contributions are highly appreciated! If you have any suggestion
 ## About the Author
 This project is developed by CodedBrainy, a platform dedicated to providing valuable information and resources on coding, web development, and technology.
 
-Visit CodedBrainy.com to explore more informative articles, tutorials, and resources related to web development and programming. Visit ![link](https://www.codedbrainy.com/chrome-extension-for-recording-the-current-tab/) to read the blog
+Visit CodedBrainy.com to explore more informative articles, tutorials, and resources related to web development and programming. Visit [link](https://www.codedbrainy.com/chrome-extension-for-recording-the-current-tab/) to read the blog
 
 ## License
 This project is licensed under the MIT License.
