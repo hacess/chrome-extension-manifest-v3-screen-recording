@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Recorder",
+  "version": "1.0",
+  "description": "Record and display current tab",
+  "permissions": [
+    "activeTab",
+    "tabCapture"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
